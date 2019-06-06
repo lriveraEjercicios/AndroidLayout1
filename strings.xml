@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="hello">Hola mundo</string>
+    <string name="txtTitle">Titulo</string>
+    <string name="btnOk">Aceptar</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="txtEnterName">Introduce tu nombre:</string>
+    <string name="hintName">Nombre aquí</string>
+    <string name="textHello">Hola</string>
+    <string name="textHowAreYou">!Que tal?</string>
+</resources>
