@@ -8,4 +8,7 @@
     <string name="hintName">Nombre aquí</string>
     <string name="textHello">Hola</string>
     <string name="textHowAreYou">!Que tal?</string>
+    <string name="selected">¿Seleccionado?</string>
+    <string name="selectedYes">esta seleccionado</string>
+    <string name="selectedNo">NO esta seleccionado</string>
 </resources>
